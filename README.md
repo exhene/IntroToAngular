@@ -1,2 +1,1 @@
-# johnsimulator
-why not
+# 30DaysOfAngular
